@@ -1,5 +1,7 @@
 # K3NG CW Keyer with Variable Sidetone
 
+![K3NG Keyer](K3NG_Keyer_modified.jpg)
+
 This is my personal version of the famous [K3NG CW Keyer](https://github.com/k3ng/k3ng_cw_keyer) 
 by Anthony Good K3NG, modified for use with an Arduino Uno with a variable sidetone frequency.
 
